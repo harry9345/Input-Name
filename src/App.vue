@@ -9,7 +9,7 @@ export default {
   data() {
     return {
       user: {
-        name: "harry",
+        name: "Harry",
         age: 37
       }
     };

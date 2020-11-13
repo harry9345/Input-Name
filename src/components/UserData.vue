@@ -4,7 +4,7 @@
     <input type="text" placeholder="Name" v-model="enterName" />
     <label for="age">agge</label>
     <input type="number" placeholder="Age" v-model="enterAge" />
-    <button>Set ne user</button>
+    <button>Set New User</button>
   </form>
 </template>
 <script>
